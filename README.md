@@ -103,7 +103,17 @@ All services run as Docker containers orchestrated via Docker Compose.
 - Embeddings are averaged across samples (one vector per identity)
 
 ---
+## Dashboard
+![Dashboard](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/dashboard.png)
 
+## Sidebar
+![Sidebar](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/sidebar.png)
+
+## Features
+![Features](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/features.png)
+
+## Extra Features
+![Featuress](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/featuress.png)
 ## Project Structure
 
 ```
