@@ -104,6 +104,18 @@ All services run as Docker containers orchestrated via Docker Compose.
 
 ---
 
+## Dashboard
+![Dashboard](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/Dashboard.png)
+
+## Sidebar
+![Sidebar](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/sidebar.png)
+
+## Features
+![Student Check In](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/features.png)
+
+## Extra Features
+![Faculty Check In](https://raw.githubusercontent.com/Souhridya-Patra/SmartClassroom/fe79219de79df573b2d757a5a935c0344206bfd3/frontend/public/featuress.png)
+
 ## Project Structure
 
 ```
